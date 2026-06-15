@@ -12,7 +12,7 @@ Solving LeetCode problems daily in Python.
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](easy/001_two_sum.py) | Easy |
-| 002 | [valid_parentheses](https://leetcode.com/problems/valid_parentheses/) | [Python](easy/002_valid_parentheses.py) | Easy |
+| 002 | [valid_parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](easy/002_valid_parentheses.py) | Easy |
 
 ### Medium
 | # | Problem | Solution | Difficulty |
