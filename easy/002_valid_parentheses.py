@@ -9,4 +9,3 @@ class Solution:
                 if not stack or stack.pop()!=mp[c]:
                     return False
         return not stack
-        
