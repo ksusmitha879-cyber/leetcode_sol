@@ -4,7 +4,7 @@
 Solving LeetCode problems daily in Python.
 
 ## Progress
-![Problems Solved](https://img.shields.io/badge/Solved-5-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-6-blue)
 
 ## Solutions
 
@@ -14,6 +14,7 @@ Solving LeetCode problems daily in Python.
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](easy/001_two_sum.py) | Easy |
 | 002 | [valid_parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](easy/002_valid_parentheses.py) | Easy |
 | 003 | [concatenation-of-array](https://leetcode.com/problems/concatenation-of-array/) | [Python](easy/1929_concatenationArray.py) | Easy |
+| 004 | [power-of-two](https://leetcode.com/problems/power-of-two/) | [Python](easy/231_power-of-two.py) | Easy |
 
 ### Medium
 | # | Problem | Solution | Difficulty |
