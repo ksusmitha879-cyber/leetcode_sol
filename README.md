@@ -4,7 +4,7 @@
 Solving LeetCode problems daily in Python.
 
 ## Progress
-![Problems Solved](https://img.shields.io/badge/Solved-7-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-8-blue)
 
 ## Solutions
 
@@ -15,6 +15,7 @@ Solving LeetCode problems daily in Python.
 | 002 | [valid_parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](easy/002_valid_parentheses.py) | Easy |
 | 003 | [concatenation-of-array](https://leetcode.com/problems/concatenation-of-array/) | [Python](easy/1929_concatenationArray.py) | Easy |
 | 004 | [power-of-two](https://leetcode.com/problems/power-of-two/) | [Python](easy/231_power-of-two.py) | Easy |
+| 005 | [num-of-steps-reduce-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](easy/1342_num-of-steps-to-reduce-to-zero.py) | Easy |
 
 ### Medium
 | # | Problem | Solution | Difficulty |
