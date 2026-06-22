@@ -23,6 +23,7 @@ Solving LeetCode problems daily in Python.
 | 001 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python](medium/047_permutations_ii.py) | Medium |
 | 002 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) | [Python](medium/011_container-with-most-water.py) | Medium |
 | 003 | [peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Python](medium/852_peak-index-in-a-mountain-array.py) | Medium |
+| 004 | [majority-elemet-ii](https://leetcode.com/majority-element-ii/) | [Python](medium/229_majority-element-ii.py) | Medium |
 
 ## How I Practice
 - Solve minimum 1 problem daily
