@@ -16,6 +16,7 @@ Solving LeetCode problems daily in Python.
 | 003 | [concatenation-of-array](https://leetcode.com/problems/concatenation-of-array/) | [Python](easy/1929_concatenationArray.py) | Easy |
 | 004 | [power-of-two](https://leetcode.com/problems/power-of-two/) | [Python](easy/231_power-of-two.py) | Easy |
 | 005 | [num-of-steps-reduce-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](easy/1342_num-of-steps-to-reduce-to-zero.py) | Easy |
+| 006 | [fibonacci-number](https://leetcode.com/problems/fibonacci-number/) | [Python](easy/504_fibonacci-number.py) | Easy |
 
 ### Medium
 | # | Problem | Solution | Difficulty |
