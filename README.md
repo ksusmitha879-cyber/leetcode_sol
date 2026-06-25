@@ -17,6 +17,7 @@ Solving LeetCode problems daily in Python.
 | 004 | [power-of-two](https://leetcode.com/problems/power-of-two/) | [Python](easy/231_power-of-two.py) | Easy |
 | 005 | [num-of-steps-reduce-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](easy/1342_num-of-steps-to-reduce-to-zero.py) | Easy |
 | 006 | [fibonacci-number](https://leetcode.com/problems/fibonacci-number/) | [Python](easy/504_fibonacci-number.py) | Easy |
+| 007 | [best-time-to-sell-and-buy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](easy/121_best-time-to-sell-and-buy.py) | Easy |
 
 ### Medium
 | # | Problem | Solution | Difficulty |
