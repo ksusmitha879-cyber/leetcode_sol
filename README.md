@@ -27,6 +27,7 @@ Solving LeetCode problems daily in Python.
 | 003 | [peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Python](medium/852_peak-index-in-a-mountain-array.py) | Medium |
 | 004 | [majority-element-ii](https://leetcode.com/majority-element-ii/) | [Python](medium/229_majority-element-ii.py) | Medium |
 | 005 | [number-of-islands](https://leetcode.com/number-of-islands/) | [Python](medium/200_number-of-islands.py) | Medium |
+| 006 | [maximum-subarray](https://leetcode.com/maximum-subarray/) | [Python](medium/53_maximum-subarray.py) | Medium |
 
 ## How I Practice
 - Solve minimum 1 problem daily
