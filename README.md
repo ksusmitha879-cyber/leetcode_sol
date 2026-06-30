@@ -19,6 +19,7 @@ Solving LeetCode problems daily in Python.
 | 006 | [fibonacci-number](https://leetcode.com/problems/fibonacci-number/) | [Python](easy/504_fibonacci-number.py) | Easy |
 | 007 | [best-time-to-sell-and-buy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](easy/121_best-time-to-sell-and-buy.py) | Easy |
 | 008 | [running-sum-of-1dArray](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](easy/1480_running-sum-of-idarray.py) | Easy |
+| 009 | [pascals-triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](easy/118_pascals-triangle.py) | Easy |
 
 ### Medium
 | # | Problem | Solution | Difficulty |
