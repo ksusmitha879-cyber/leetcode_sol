@@ -32,6 +32,7 @@ Solving LeetCode problems daily in Python.
 | 006 | [maximum-subarray](https://leetcode.com/maximum-subarray/) | [Python](medium/53_maximum-subarray.py) | Medium |
 | 007 | [minimun-sorted-array](https://leetcode.com/search-in-rotated-sorted-array/) | [Python](medium/min-sorted-array.py) | Medium |
 | 008 | [rotate-image](https://leetcode.com/rotate-image/) | [Python](medium/48_rotate-image.py) | Medium |
+| 009 | [search-a-2D-matrix](https://leetcode.com/search-a-2D-matrix/) | [Python](medium/74_search-a-2D-matrix.py) | Medium |
 
 ## How I Practice
 - Solve minimum 1 problem daily
