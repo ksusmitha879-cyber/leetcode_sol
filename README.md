@@ -35,6 +35,12 @@ Solving LeetCode problems daily in Python.
 | 008 | [rotate-image](https://leetcode.com/rotate-image/) | [Python](medium/48_rotate-image.py) | Medium |
 | 009 | [search-a-2D-matrix](https://leetcode.com/search-a-2D-matrix/) | [Python](medium/74_search-a-2D-matrix.py) | Medium |
 
+### Hard
+| # | Problem | Solution | Difficulty |
+|---|---------|----------|------------|
+| 001 | [reverse-pairs](https://leetcode.com/problems/reverse-pairs/) | [Python](medium/493_reverse-pairs.py) | Hard |
+
+
 ## How I Practice
 - Solve minimum 1 problem daily
 - Focus on understanding before optimizing
