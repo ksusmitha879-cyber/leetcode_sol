@@ -1,5 +1,5 @@
 class Solution:
-    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool: # type: ignore
         n,m=len(matrix),len(matrix[0])
         l,h=0,(n*m)-1
         if not matrix or not matrix[0]:
