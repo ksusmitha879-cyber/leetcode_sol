@@ -36,8 +36,8 @@ Solving LeetCode problems daily in Python.
 | 009 | [search-a-2D-matrix](https://leetcode.com/search-a-2D-matrix/) | [Python](medium/74_search-a-2D-matrix.py) | Medium |
 | 010 | [powx-n](https://leetcode.com/powx-n/) | [Python](medium/50_powx-n.py) | Medium |
 | 011 | [3sum](https://leetcode.com/3sum/) | [Python](medium/15_3sum.py) | Medium |
-| 012 | [3sum](https://leetcode.com/reverse-words-in-a-string/) | [Python](medium/151_reverse-words-in-a-string.py) | Medium |
-| 013 | [3sum](https://leetcode.com/reverse-integer/) | [Python](medium/151_reverse-integer.py) | Medium |
+| 012 | [reverse words in a string](https://leetcode.com/reverse-words-in-a-string/) | [Python](medium/151_reverse-words-in-a-string.py) | Medium |
+| 013 | [reverse integer](https://leetcode.com/reverse-integer/) | [Python](medium/151_reverse-integer.py) | Medium |
 
 ### Hard
 | # | Problem | Solution | Difficulty |
