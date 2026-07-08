@@ -38,6 +38,7 @@ Solving LeetCode problems daily in Python.
 | 011 | [3sum](https://leetcode.com/3sum/) | [Python](medium/15_3sum.py) | Medium |
 | 012 | [reverse words in a string](https://leetcode.com/reverse-words-in-a-string/) | [Python](medium/151_reverse-words-in-a-string.py) | Medium |
 | 013 | [reverse integer](https://leetcode.com/reverse-integer/) | [Python](medium/151_reverse-integer.py) | Medium |
+| 014 | [koko eating bananas](https://leetcode.com/koko-eating-bananas/) | [Python](medium/875_koko-eating-bananas.py) | Medium |
 
 ### Hard
 | # | Problem | Solution | Difficulty |
