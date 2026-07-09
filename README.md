@@ -21,6 +21,7 @@ Solving LeetCode problems daily in Python.
 | 008 | [running-sum-of-1dArray](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](easy/1480_running-sum-of-idarray.py) | Easy |
 | 009 | [pascals-triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](easy/118_pascals-triangle.py) | Easy |
 | 010 | [middle-of-the-linkedlist](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](easy/876_middle-of-the-linked-list.py) | Easy |
+| 011 | [jewels and stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](easy/771_jewels-and-stones.py) | Easy |
 
 ### Medium
 | # | Problem | Solution | Difficulty |
