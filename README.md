@@ -4,7 +4,7 @@
 Solving LeetCode problems daily in Python.
 
 ## Progress
-![Problems Solved](https://img.shields.io/badge/Solved-25-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-26-blue)
 
 ## Solutions
 
