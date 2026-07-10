@@ -22,6 +22,7 @@ Solving LeetCode problems daily in Python.
 | 009 | [pascals-triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](easy/118_pascals-triangle.py) | Easy |
 | 010 | [middle-of-the-linkedlist](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](easy/876_middle-of-the-linked-list.py) | Easy |
 | 011 | [jewels and stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](easy/771_jewels-and-stones.py) | Easy |
+| 012 | [last-stone-weight](https://leetcode.com/problems/last-stone-weight/) | [Python](easy/1046_last-stone-weight.py) | Easy |
 
 ### Medium
 | # | Problem | Solution | Difficulty |
