@@ -23,6 +23,7 @@ Solving LeetCode problems daily in Python.
 | 010 | [middle-of-the-linkedlist](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](easy/876_middle-of-the-linked-list.py) | Easy |
 | 011 | [jewels and stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](easy/771_jewels-and-stones.py) | Easy |
 | 012 | [last-stone-weight](https://leetcode.com/problems/last-stone-weight/) | [Python](easy/1046_last-stone-weight.py) | Easy |
+| 013 | [last-stone-weight](https://leetcode.com/problems/merged-strings-alternatively/) | [Python](easy/1768_merged-strings-alternatively.py) | Easy |
 
 ### Medium
 | # | Problem | Solution | Difficulty |
