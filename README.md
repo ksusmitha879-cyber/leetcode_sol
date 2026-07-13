@@ -47,7 +47,8 @@ Solving LeetCode problems daily in Python.
 ### Hard
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 001 | [reverse-pairs](https://leetcode.com/problems/reverse-pairs/) | [Python](medium/493_reverse-pairs.py) | Hard |
+| 001 | [reverse-pairs](https://leetcode.com/problems/reverse-pairs/) | [Python](hard/493_reverse-pairs.py) | Hard |
+| 002 | [regular-expression-matching](https://leetcode.com/problems/regular-expression-maching/) | [Python](hard/10_regular-expression-amtching.py) | Hard |
 
 
 ## How I Practice
