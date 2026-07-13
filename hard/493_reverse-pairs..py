@@ -1,5 +1,5 @@
 class Solution:
-    def reversePairs(self, nums: List[int]) -> int:
+    def reversePairs(self, nums: List[int]) -> int: # type: ignore
         if not nums:
             return 0
         return self.merge_sort(nums, 0, len(nums) - 1)
