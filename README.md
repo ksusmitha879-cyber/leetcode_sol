@@ -26,6 +26,7 @@ Solving LeetCode problems daily in Python.
 | 013 | [last-stone-weight](https://leetcode.com/problems/merged-strings-alternatively/) | [Python](easy/1768_merged-strings-alternatively.py) | Easy |
 | 014 | [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) | [Python](easy/206_reverse-linked-list.py) | Easy |
 | 015 | [merged-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](easy/21_merge-two-sorted-lists.py) | Easy |
+| 016 | [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](easy/226_invert-binary-tree.py) | Easy |
 
 
 ### Medium
