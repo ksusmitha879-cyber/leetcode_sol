@@ -27,6 +27,7 @@ Solving LeetCode problems daily in Python.
 | 014 | [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) | [Python](easy/206_reverse-linked-list.py) | Easy |
 | 015 | [merged-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](easy/21_merge-two-sorted-lists.py) | Easy |
 | 016 | [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](easy/226_invert-binary-tree.py) | Easy |
+| 017 | [max-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](easy/104_max-depth-of-binary-tree.py) | Easy |
 
 
 ### Medium
