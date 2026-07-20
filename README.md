@@ -23,7 +23,7 @@ Solving LeetCode problems daily in Python.
 | 010 | [middle-of-the-linkedlist](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](easy/876_middle-of-the-linked-list.py) | Easy |
 | 011 | [jewels and stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](easy/771_jewels-and-stones.py) | Easy |
 | 012 | [last-stone-weight](https://leetcode.com/problems/last-stone-weight/) | [Python](easy/1046_last-stone-weight.py) | Easy |
-| 013 | [last-stone-weight](https://leetcode.com/problems/merged-strings-alternatively/) | [Python](easy/1768_merged-strings-alternatively.py) | Easy |
+| 013 | [merged-strings-alternatively](https://leetcode.com/problems/merged-strings-alternatively/) | [Python](easy/1768_merged-strings-alternatively.py) | Easy |
 | 014 | [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) | [Python](easy/206_reverse-linked-list.py) | Easy |
 | 015 | [merged-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](easy/21_merge-two-sorted-lists.py) | Easy |
 | 016 | [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](easy/226_invert-binary-tree.py) | Easy |
