@@ -49,6 +49,7 @@ Solving LeetCode problems daily in Python.
 | 014 | [koko eating bananas](https://leetcode.com/koko-eating-bananas/) | [Python](medium/875_koko-eating-bananas.py) | Medium |
 | 015 | [zigzag-conversion](https://leetcode.com/zigzag-conversion/) | [Python](medium/6_zigzag-conversion.py) | Medium |
 | 016 | [4sum](https://leetcode.com/4sum/) | [Python](medium/18_4sum.py) | Medium |
+| 017 | [lowest-common-ancestor-of-a-bst](https://leetcode.com/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](medium/235_lowest-common-ancestor-of-a-binary-search-tree.py) | Medium |
 ### Hard
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
