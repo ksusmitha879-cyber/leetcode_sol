@@ -55,6 +55,7 @@ Solving LeetCode problems daily in Python.
 |---|---------|----------|------------|
 | 001 | [reverse-pairs](https://leetcode.com/problems/reverse-pairs/) | [Python](hard/493_reverse-pairs.py) | Hard |
 | 002 | [regular-expression-matching](https://leetcode.com/problems/regular-expression-maching/) | [Python](hard/10_regular-expression-amtching.py) | Hard |
+| 003 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) | [Python](hard/42_trapping-rain-water.py) | Hard |
 
 
 ## How I Practice
