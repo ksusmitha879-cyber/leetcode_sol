@@ -51,6 +51,7 @@ Solving LeetCode problems daily in Python.
 | 016 | [4sum](https://leetcode.com/4sum/) | [Python](medium/18_4sum.py) | Medium |
 | 017 | [lowest-common-ancestor-of-a-bst](https://leetcode.com/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](medium/235_lowest-common-ancestor-of-a-binary-search-tree.py) | Medium |
 | 018 | [group-anagrams](https://leetcode.com/group-anagrams/) | [Python](medium/49_group-anagrams.py) | Medium |
+| 019 | [string to integer atoi](https://leetcode.com/string-to-integer-atoi/) | [Python](medium/8_string-to-integer-atoi.py) | Medium |
 ### Hard
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
