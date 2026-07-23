@@ -1,5 +1,5 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]: # type: ignore
         groups:dict[str,list[str]]={}
         for s in strs:
             key="".join(sorted(s))
