@@ -30,7 +30,7 @@ Solving LeetCode problems daily in Python.
 | 017 | [max-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](easy/104_max-depth-of-binary-tree.py) | Easy |
 | 018 | [take-difts-from-the-richest-pile](https://leetcode.com/problems/taje-gifts-from-the-richest-pile/) | [Python](easy/2558_take-gifts-from-the-richest-pile.py) | Easy |
 | 019 | [same-tree](https://leetcode.com/problems/same-tree/) | [Python](easy/100_same-tree.py) | Easy |
-
+| 020 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](easy/70_climbing-stairs.py) | Easy |
 
 ### Medium
 | # | Problem | Solution | Difficulty |
