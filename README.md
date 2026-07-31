@@ -31,7 +31,7 @@ Solving LeetCode problems daily in Python.
 | 018 | [take-difts-from-the-richest-pile](https://leetcode.com/problems/taje-gifts-from-the-richest-pile/) | [Python](easy/2558_take-gifts-from-the-richest-pile.py) | Easy |
 | 019 | [same-tree](https://leetcode.com/problems/same-tree/) | [Python](easy/100_same-tree.py) | Easy |
 | 020 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](easy/70_climbing-stairs.py) | Easy |
-
+| 021 | [intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](easy/160_intersection-of-two-linked-lists.py) | Easy |
 ### Medium
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
