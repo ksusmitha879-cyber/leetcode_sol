@@ -57,6 +57,7 @@ Solving LeetCode problems daily in Python.
 | 020 | [topk-frequent-elements](https://leetcode.com/topk-frequent-elements/) | [Python](medium/347_topk-frequent-elements.py) | Medium |
 | 021 | [k-closest-points-to-origin](https://leetcode.com/k-closest-points-to-origin/) | [Python](medium/973_k-closest-points-to-origin.py) | Medium |
 | 022 | [reorganize string](https://leetcode.com/reorganize-string/) | [Python](medium/767_reorganize-string.py) | Medium |
+| 023 | [two-sum-ii](https://leetcode.com/two-sum-ii/) | [Python](medium/167_two-sum-ii.py) | Medium |
 ### Hard
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
