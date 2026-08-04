@@ -32,6 +32,9 @@ Solving LeetCode problems daily in Python.
 | 019 | [same-tree](https://leetcode.com/problems/same-tree/) | [Python](easy/100_same-tree.py) | Easy |
 | 020 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](easy/70_climbing-stairs.py) | Easy |
 | 021 | [intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](easy/160_intersection-of-two-linked-lists.py) | Easy |
+| 022 | [binary-tree-inoreder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](easy/94_binary-tree-inorder-travesal.py) | Easy |
+| 023 | [binary-tree-preoreder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](easy/144_binary-tree-preorder-travesal.py) | Easy |
+| 024 | [binary-tree-postoreder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](easy/145_binary-tree-postorder-travesal.py) | Easy |
 ### Medium
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
