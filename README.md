@@ -35,6 +35,8 @@ Solving LeetCode problems daily in Python.
 | 022 | [binary-tree-inoreder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](easy/94_binary-tree-inorder-travesal.py) | Easy |
 | 023 | [binary-tree-preoreder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](easy/144_binary-tree-preorder-travesal.py) | Easy |
 | 024 | [binary-tree-postoreder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](easy/145_binary-tree-postorder-travesal.py) | Easy |
+| 025 | [balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](easy/110_balanced-binary-tree.py) | Easy |
+| 026 | [diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](easy/543_diameter-of-binary-tree.py) | Easy |
 ### Medium
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
