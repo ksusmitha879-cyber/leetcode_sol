@@ -1,5 +1,5 @@
 class Solution:
-    def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+    def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]: # type: ignore
         def Tree(root,result):
             if root!=None:
                 
