@@ -64,6 +64,9 @@ Solving LeetCode problems daily in Python.
 | 022 | [reorganize string](https://leetcode.com/reorganize-string/) | [Python](medium/767_reorganize-string.py) | Medium |
 | 023 | [two-sum-ii](https://leetcode.com/two-sum-ii/) | [Python](medium/167_two-sum-ii.py) | Medium |
 | 024 | [longest-substring-without-repeating-characters](https://leetcode.com/longest-substring-without-repeating-characters/) | [Python](medium/3_longest-substring-without-repeating-characters.py) | Medium |
+| 025 | [binary-tree-level-order-traversal](https://leetcode.com/binary-tree-level-order-traversal/) | [Python](medium/102_binary-tree-level-order-travesal.py) | Medium |
+| 026 | [binary-tree-rightside-view](https://leetcode.com/binary-tree-right-side-view/) | [Python](medium/199_binary-tree-right-side-view.py) | Medium |
+| 027 | [count-good-nodes-in-binary-tree](https://leetcode.com/count-good-nodes-in-binary-tree/) | [Python](medium/1448_count-good-nodes-in-binary-tree.py) | Medium |
 ### Hard
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
