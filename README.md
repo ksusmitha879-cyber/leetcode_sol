@@ -67,6 +67,7 @@ Solving LeetCode problems daily in Python.
 | 025 | [binary-tree-level-order-traversal](https://leetcode.com/binary-tree-level-order-traversal/) | [Python](medium/102_binary-tree-level-order-travesal.py) | Medium |
 | 026 | [binary-tree-rightside-view](https://leetcode.com/binary-tree-right-side-view/) | [Python](medium/199_binary-tree-right-side-view.py) | Medium |
 | 027 | [count-good-nodes-in-binary-tree](https://leetcode.com/count-good-nodes-in-binary-tree/) | [Python](medium/1448_count-good-nodes-in-binary-tree.py) | Medium |
+| 028 | [validate-binary-search-tree](https://leetcode.com/validate-binary-search-tree/) | [Python](medium/98_validate-binary-search-tree.py) | Medium |
 ### Hard
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
