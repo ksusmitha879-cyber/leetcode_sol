@@ -68,6 +68,7 @@ Solving LeetCode problems daily in Python.
 | 026 | [binary-tree-rightside-view](https://leetcode.com/binary-tree-right-side-view/) | [Python](medium/199_binary-tree-right-side-view.py) | Medium |
 | 027 | [count-good-nodes-in-binary-tree](https://leetcode.com/count-good-nodes-in-binary-tree/) | [Python](medium/1448_count-good-nodes-in-binary-tree.py) | Medium |
 | 028 | [validate-binary-search-tree](https://leetcode.com/validate-binary-search-tree/) | [Python](medium/98_validate-binary-search-tree.py) | Medium |
+| 029 | [kth-largest-element-in-an-array](https://leetcode.com/kth-largest-element-in-an-array/) | [Python](medium/215_kth-largest-element-in-an-array.py) | Medium |
 ### Hard
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
